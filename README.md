@@ -8,19 +8,29 @@ Gitstart creates, adds, and pushes with one line.
 This script automates creating a git repo. The script will:
 
 •	Create .gitignore if you provide a language.
+
 •	Create a license.txt depends on your choice.
+
 •	Create a new repo at GitHub.com.
+
 •	Create a README.md file with the repo name.
+
 •	Add README.md and commit with a message.
+
 •	Add the remote and push the file.
+
 •	The script reads your GitHub username from ~/.config/gh/hosts.yml and uses the directory name as a GitHub repo name.
 
 
 ## Requirements
 
-UNIX-lie (Tested on Ubuntu and MacOS.)
-GitHub CLI, >v2.3.0.
-jq.
+•	UNIX-lie (Tested on Ubuntu and MacOS.)
+
+•	GitHub CLI, >v2.3.0.
+
+•	jq.
+
+
 Linux users can download gh cli from the Releases page, then run:
 
 sudo apt install ./gh_x.x.x_xxxxxxx.deb
