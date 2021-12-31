@@ -132,11 +132,10 @@ Read more about [Licensing](https://docs.github.com/en/free-pro-team@latest/rest
 
 ## Author
 
-### Sachet Utekar
+Sachet Utekar
 
-[Medium](https://medium.com/@sachet.utekar)
-
-[LinkedIn](https://www.linkedin.com/in/sachetutekar/)
+•	[Medium](https://medium.com/@sachet.utekar)
+•	[LinkedIn](https://www.linkedin.com/in/sachetutekar/)
 
 ## License
 
