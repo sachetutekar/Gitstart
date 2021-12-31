@@ -126,18 +126,18 @@ Initialized empty Git repository in /Users/sachetutekar/Downloads/test1/.git/
   Internal
 ```
 
-### About Licensing
+## About Licensing
 
 Read more about [Licensing](https://docs.github.com/en/free-pro-team@latest/rest/reference/licenses).
 
-### Author
+## Author
 
-#### Sachet Utekar
+### Sachet Utekar
 
-Medium
+[Medium](https://medium.com/@sachet.utekar)
 
 [LinkedIn](https://www.linkedin.com/in/sachetutekar/)
 
-### License
+## License
 
 Copyright (c) 2021 Shinichi Okada (@sachetutekar) This software is released under the MIT License.
