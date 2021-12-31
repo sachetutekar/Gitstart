@@ -36,7 +36,6 @@ Linux users can download gh cli from the Releases page, then run:
 
 ``` 
 sudo apt install ./gh_x.x.x_xxxxxxx.deb
-
 ```
 
 ## Installation
@@ -56,7 +55,6 @@ If you have Homebrew on your macOS, your can run:
 
 ``` 
 brew tap sachetutekar/gitstart && brew install gitstart
-
 ```
 
 ### Debian/Ubuntu
