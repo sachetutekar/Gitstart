@@ -34,7 +34,10 @@ This script automates creating a git repo. The script will:
 Linux users can download gh cli from the Releases page, then run:
 
 
-``` sudo apt install ./gh_x.x.x_xxxxxxx.deb ```
+``` 
+sudo apt install ./gh_x.x.x_xxxxxxx.deb
+
+```
 
 ## Installation
 
@@ -42,14 +45,19 @@ Linux users can download gh cli from the Releases page, then run:
 
 After installing [Awesome package Manager](https://github.com/shinokada/awesome):
 
-``` awesome install sachetutekar/gitstart               ```
+``` 
+awesome install sachetutekar/gitstart
+```
 
 
 ### MacOS using Homebrew
 
 If you have Homebrew on your macOS, your can run:
 
-``` brew tap sachetutekar/gitstart && brew install gitstart   ```
+``` 
+brew tap sachetutekar/gitstart && brew install gitstart
+
+```
 
 ### Debian/Ubuntu
 
@@ -78,7 +86,10 @@ gitstart .
 
 Adding language preference
 
-``` gitstart -d repo-name -l python ```
+``` 
+gitstart -d repo-name -l python 
+
+```
 
 This will add python .gitignore as well.
 
