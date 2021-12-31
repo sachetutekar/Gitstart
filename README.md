@@ -39,7 +39,7 @@ sudo apt install ./gh_x.x.x_xxxxxxx.deb
 After installing [Awesome package manager](https://github.com/shinokada/awesome):
 
 ```sh
-awesome install shinokada/gitstart
+awesome install sachetutekar/gitstart
 ```
 
 ### macOS using Homebrew
@@ -47,7 +47,7 @@ awesome install shinokada/gitstart
 If you have Homebrew on your macOS, your can run:
 
 ```sh
-brew tap shinokada/gitstart && brew install gitstart
+brew tap sachetutekar/gitstart && brew install gitstart
 ```
 
 ### Debian/Ubuntu
@@ -66,7 +66,7 @@ sudo apt install ./gitstart_version_all.deb
 If you install Gitstart either Awesome package manager/Homebrew/Debian package, then the following will uninstall Gistart.
 
 ```sh
-curl -s https://raw.githubusercontent.com/shinokada/gitstart/main/uninstall.sh > tmp1 && bash tmp1 && rm tmp1
+curl -s https://raw.githubusercontent.com/sachetutekar/gitstart/main/uninstall.sh > tmp1 && bash tmp1 && rm tmp1
 ```
 
 ## Usage
@@ -93,9 +93,9 @@ This will add python .gitignore as well.
 - The script asks you about your license preference.
   
 ```sh
-Is it correct your GitHub username is shinokada. y/yes/n/no
+Is it correct your GitHub username is sachetutekar? y/yes/n/no
 y
->>> Your github username is shinokada.
+>>> Your github username is sachetutekar.
 >>> Your new repo name is test1.
 Select a license:
 1) MIT: I want it simple and permissive.
@@ -105,12 +105,12 @@ Select a license:
 5) Quit
 Your lisence: 2
 Apache
-Creating a public remote repo /Users/shinichiokada/Downloads/test1>>> Running git init.
-Initialized empty Git repository in /Users/shinichiokada/Downloads/test1/.git/
+Creating a public remote repo /Users/sachetutekar/Downloads/test1>>> Running git init.
+Initialized empty Git repository in /Users/sachetutekar/Downloads/test1/.git/
 ? Repository name test1
 ? Repository description test1 repo
-✓ Created repository shinokada/test1 on GitHub
-✓ Added remote git@github.com:shinokada/test1.git
+✓ Created repository sachetutekar/test1 on GitHub
+✓ Added remote git@github.com:sachetutekar/test1.git
 >>> LICENSE is created.
 >>> Creating .gitignore for ...
 ```
@@ -131,12 +131,12 @@ Read more about [Licensing](https://docs.github.com/en/free-pro-team@latest/rest
 
 ## Author
 
-Shinichi Okada
+Sachet Utekar
 
-- [Medium](https://shinichiokada.medium.com/)
-- [Twitter](https://twitter.com/shinokada)
+- [Medium](https://medium.com/@sachet.utekar)
+- [LinkedIn](https://www.linkedin.com/in/sachetutekar/)
 
 ## License
 
-Copyright (c) 2021 Shinichi Okada (@shinokada)
-This software is released under the MIT License, see LICENSE.
+Copyright (c) 2021 Sachet Utekar (@sachetutekar)
+This software is released under the MIT License.
