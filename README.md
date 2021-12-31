@@ -33,8 +33,11 @@ This script automates creating a git repo. The script will:
 
 Linux users can download gh cli from the Releases page, then run:
 
-sudo apt install ./gh_x.x.x_xxxxxxx.deb
-Installation
+
+``` sudo apt install ./gh_x.x.x_xxxxxxx.deb ```
+
+## Installation
+
 Linux/macOS using Awesome
 After installing Awesome package manager:
 
