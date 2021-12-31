@@ -1,4 +1,4 @@
-!Gitstart(![image](https://user-images.githubusercontent.com/82140149/147836931-c76261fc-6f77-41a8-8b2e-7a5679857c9a.png))
+![Gitstart](https://user-images.githubusercontent.com/82140149/147836931-c76261fc-6f77-41a8-8b2e-7a5679857c9a.png)
 
 # **Gitstart**
 
