@@ -5,6 +5,7 @@
 ## Overview
 > Gitstart creates, adds, and pushes with one line.
 
+
 This script automates creating a git repo. The script will:
 
 •	Create .gitignore if you provide a language.
