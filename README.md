@@ -1,6 +1,6 @@
 # **Gitstart**
 
-More details about Gitstart.
+[More details about Gitstart](https://towardsdatascience.com/automate-creating-a-new-github-repository-with-gitstart-1ae961b99866).
 
 ## Overview
 Gitstart creates, adds, and pushes with one line.
@@ -26,12 +26,12 @@ This script automates creating a git repo. The script will:
 
 •	UNIX-lie (Tested on Ubuntu and MacOS.)
 
-•	GitHub CLI, >v2.3.0.
+•	[GitHub CLI](https://cli.github.com/manual/), >v2.3.0.
 
-•	jq.
+•	[jq](https://stedolan.github.io/jq/).
 
 
-Linux users can download gh cli from the Releases page, then run:
+Linux users can download gh cli from the [Releases page](https://github.com/cli/cli/releases), then run:
 
 
 ``` 
