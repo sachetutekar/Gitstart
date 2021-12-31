@@ -38,11 +38,15 @@ Linux users can download gh cli from the Releases page, then run:
 
 ## Installation
 
-Linux/macOS using Awesome
-After installing Awesome package manager:
+### Linux/macOS using Awesome
 
-awesome install shinokada/gitstart
-macOS using Homebrew
+After installing [Awesome package Manager](https://github.com/shinokada/awesome):
+
+``` awesome install shinokada/gitstart               ```
+
+
+### MacOS using Homebrew
+
 If you have Homebrew on your macOS, your can run:
 
 brew tap shinokada/gitstart && brew install gitstart
