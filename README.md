@@ -42,38 +42,52 @@ Linux users can download gh cli from the Releases page, then run:
 
 After installing [Awesome package Manager](https://github.com/shinokada/awesome):
 
-``` awesome install shinokada/gitstart               ```
+``` awesome install sachetutekar/gitstart               ```
 
 
 ### MacOS using Homebrew
 
 If you have Homebrew on your macOS, your can run:
 
-brew tap shinokada/gitstart && brew install gitstart
-Debian/Ubuntu
-Download the latest version from releases page and run:
+``` brew tap sachetutekar/gitstart && brew install gitstart   ```
+
+### Debian/Ubuntu
+
+Download the latest version from [releases page](https://github.com/shinokada/gitstart/releases) and run:
 
 sudo apt install ./gitstart_version_all.deb
-Uninstallation
+
+### Uninstallation
+
 If you install Gitstart either Awesome package manager/Homebrew/Debian package, then the following will uninstall Gistart.
 
-curl -s https://raw.githubusercontent.com/shinokada/gitstart/main/uninstall.sh > tmp1 && bash tmp1 && rm tmp1
-Usage
-Login github using gh auth login.
-Starting gitstart
+``` curl -s https://raw.githubusercontent.com/shinokada/gitstart/main/uninstall.sh > tmp1 && bash tmp1 && rm tmp1 ```
+
+### Usage
+
+•	Login github using gh auth login.
+•	Starting gitstart
+
+``` 
 # define a dir path
 gitstart -d repo-name
 # in a current dir
 cd new_repo
 gitstart .
+```
+
 Adding language preference
-gitstart -d repo-name -l python
+
+``` gitstart -d repo-name -l python ```
+
 This will add python .gitignore as well.
 
-The script asks you about your license preference.
-Is it correct your GitHub username is shinokada. y/yes/n/no
+•	The script asks you about your license preference.
+
+``` 
+Is it correct your GitHub username is sachetutekar? y/yes/n/no
 y
->>> Your github username is shinokada.
+>>> Your github username is sachetutekar.
 >>> Your new repo name is test1.
 Select a license:
 1) MIT: I want it simple and permissive.
@@ -83,27 +97,38 @@ Select a license:
 5) Quit
 Your lisence: 2
 Apache
-Creating a public remote repo /Users/shinichiokada/Downloads/test1>>> Running git init.
-Initialized empty Git repository in /Users/shinichiokada/Downloads/test1/.git/
+Creating a public remote repo /Users/sachetutekar/Downloads/test1>>> Running git init.
+Initialized empty Git repository in /Users/sachetutekar/Downloads/test1/.git/
 ? Repository name test1
 ? Repository description test1 repo
-✓ Created repository shinokada/test1 on GitHub
-✓ Added remote git@github.com:shinokada/test1.git
+✓ Created repository sachetutekar/test1 on GitHub
+✓ Added remote git@github.com: sachetutekar/test1.git
 >>> LICENSE is created.
 >>> Creating .gitignore for ...
-Select a visibility.
+```
+
+•	Select a visibility.
+
+```
 >>> You are logged in. Creating your newtest in remote.
 ? Visibility  [Use arrows to move, type to filter]
 > Public
   Private
   Internal
-About Licensing
-Read more about Licensing.
+```
 
-Author
-Shinichi Okada
+### About Licensing
+
+Read more about [Licensing](https://docs.github.com/en/free-pro-team@latest/rest/reference/licenses).
+
+### Author
+
+#### Sachet Utekar
 
 Medium
-Twitter
-License
-Copyright (c) 2021 Shinichi Okada (@shinokada) This software is released under the MIT License, see LICENSE.
+
+[LinkedIn](https://www.linkedin.com/in/sachetutekar/)
+
+### License
+
+Copyright (c) 2021 Shinichi Okada (@sachetutekar) This software is released under the MIT License.
