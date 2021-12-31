@@ -16,7 +16,8 @@ This script automates creating a git repo. The script will:
 •	The script reads your GitHub username from ~/.config/gh/hosts.yml and uses the directory name as a GitHub repo name.
 
 
-Requirements
+## Requirements
+
 UNIX-lie (Tested on Ubuntu and MacOS.)
 GitHub CLI, >v2.3.0.
 jq.
