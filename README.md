@@ -3,8 +3,7 @@
 [More details about Gitstart](https://towardsdatascience.com/automate-creating-a-new-github-repository-with-gitstart-1ae961b99866).
 
 ## Overview
-> Gitstart creates, adds, and pushes with one line.
-
+> Gitstart creates, adds, and pushes with one line.<br><br>
 
 This script automates creating a git repo. The script will:
 
