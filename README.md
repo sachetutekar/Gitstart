@@ -1,8 +1,8 @@
-# Gitstart
+# **Gitstart**
 
 More details about Gitstart.
 
-# **Overview**
+## Overview
 Gitstart creates, adds, and pushes with one line.
 
 This script automates creating a git repo. The script will:
