@@ -7,19 +7,14 @@
 
 This script automates creating a git repo. The script will:
 
-•	Create .gitignore if you provide a language.
+•	Create .gitignore if you provide a language.<br>
+•	Create a license.txt depends on your choice.<br>
+•	Create a new repo at GitHub.com.<br>
+•	Create a README.md file with the repo name.<br>
+•	Add README.md and commit with a message.<br>
+•	Add the remote and push the file.<br>
 
-•	Create a license.txt depends on your choice.
-
-•	Create a new repo at GitHub.com.
-
-•	Create a README.md file with the repo name.
-
-•	Add README.md and commit with a message.
-
-•	Add the remote and push the file.
-
-•	The script reads your GitHub username from ~/.config/gh/hosts.yml and uses the directory name as a GitHub repo name.
+The script reads your GitHub username from ~/.config/gh/hosts.yml and uses the directory name as a GitHub repo name.
 
 
 ## Requirements
