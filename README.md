@@ -134,8 +134,7 @@ Read more about [Licensing](https://docs.github.com/en/free-pro-team@latest/rest
 
 Sachet Utekar
 
-•	[Medium](https://medium.com/@sachet.utekar)
-
+•	[Medium](https://medium.com/@sachet.utekar)<br>
 •	[LinkedIn](https://www.linkedin.com/in/sachetutekar/)
 
 ## License
